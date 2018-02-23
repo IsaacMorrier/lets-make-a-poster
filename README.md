@@ -1,6 +1,6 @@
 # lets-make-a-poster
 Content goes in, poster comes out.
-<a href="isaacmorrier.github.io/lets-make-a-poster">Check it out!!!</a>
+[Check it out!!!](isaacmorrier.github.io/lets-make-a-poster)
 
 ## Up Next
 - character escaping
